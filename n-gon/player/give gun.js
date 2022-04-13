@@ -1,0 +1,1 @@
+javascript:b.giveGuns(prompt("what gun ?????"))

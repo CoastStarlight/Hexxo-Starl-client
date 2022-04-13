@@ -1,0 +1,1 @@
+javascript:engine.timing.timeScale *= parseFloat(prompt("what multiplier"));console.log("done")

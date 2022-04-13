@@ -1,0 +1,1 @@
+javascript: hexxotech = prompt("What tech?%22);%20hexxonumb%20=%20prompt(%22How%20much%20tech%20would%20you%20like?%22);hexxotimes%20=%200;%20while%20(hexxotimes%20%3C=%20hexxonumb%20-%201){tech.giveTech(hexxotech);%20hexxotimes%20=%20hexxotimes%20+%201;}

@@ -1,0 +1,1 @@
+javascript:m.health = m.maxHealth; console.log("me when helt")

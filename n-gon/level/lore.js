@@ -1,0 +1,1 @@
+javascript:for(let i = 0;i<7;i++){tech.giveTech("undefined")};for(let i = 0;i<100;i++){tech.giveTech("missile-bot")};for(let i = 0; i<13;i++){level.nextLevel()}

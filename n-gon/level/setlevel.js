@@ -1,0 +1,1 @@
+javascript:level.levels[level.onLevel+1] = prompt("what level do you want?%22);%20level.nextLevel()

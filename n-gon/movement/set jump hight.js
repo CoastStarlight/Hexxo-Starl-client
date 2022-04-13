@@ -1,0 +1,1 @@
+javascript:hight = parseInt(prompt("to which degree?"));if(hight%20!=%22NaN%22){m.jumpForce%20=%20m.jumpForce*hight}

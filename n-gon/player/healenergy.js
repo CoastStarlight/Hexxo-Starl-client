@@ -1,0 +1,1 @@
+javascript:m.energy = m.maxEnergy; console.log("me when helt")

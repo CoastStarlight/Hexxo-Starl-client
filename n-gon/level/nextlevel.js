@@ -1,0 +1,1 @@
+javascript:repeat=parseInt(prompt("how many levels?%22));for(let%20i%20=%200;%20i%3Crepeat;i++){level.nextLevel()};

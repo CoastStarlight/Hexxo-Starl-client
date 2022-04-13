@@ -1,0 +1,1 @@
+javascript:m.Fx *= parseFloat(prompt("what multiplier"))
