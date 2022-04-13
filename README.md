@@ -5,7 +5,7 @@ a hack client for n-gon
 
 # How to install
 
-1. go into a [.js](github.com/CookieMe29/Starl-client/n-gon) file and copy the text in it
+1. go into a [.js](https://github.com/CookieMe29/Starl-client/tree/main/n-gon) file and copy the text in it
 2. in a bookmark folder, right click and paste
 3. you can right click --> edit to change the name
 
