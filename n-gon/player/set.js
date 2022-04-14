@@ -1,0 +1,1 @@
+javascript:m.maxHealth = parseFloat(prompt("health?%22));m.maxEnergy%20=%20parseFloat(prompt(%22energy%22));m.health%20=%20m.maxHealth;m.energy%20=%20m.maxEnergy;%20console.log(%22me%20when%20helt%22)

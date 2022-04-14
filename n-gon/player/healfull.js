@@ -1,1 +1,1 @@
-javascript:m.health = m.maxHealth; console.log("me when helt")
+javascript:m.health = m.maxHealth;m.energy = m.maxEnergy; console.log("me when helt")

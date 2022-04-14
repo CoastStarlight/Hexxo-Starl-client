@@ -1,0 +1,1 @@
+javascript:StarlWhat = prompt("spawn what?"); Oga = parseInt(prompt("how much?"));for(let i = 0; i<Oga;i++){eval("spawn." + StarlWhat + "(m.pos.x, m.pos.y)")}
