@@ -1,0 +1,1 @@
+javascript:eval("spawn." + prompt("spawn what?%22)%20+%20%22(m.pos.x,%20m.pos.y,%20%22%20+%20parseInt(prompt(%22what%20size?%22))%20+%20%22)%22)
