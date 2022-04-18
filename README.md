@@ -11,7 +11,7 @@
 now if you go into n-gon, you can click on those bookmarks to activate the hacks!
 
 ---
-#Guide
-##mobs
+# Guide
+## mobs
 to find a mob use the helpfull google slide [@hexxovy](https://github.com/Hexxovy) made!
 [inside ccusd](https://docs.google.com/presentation/d/1nuwsdmJAXYf9gSFDSPBzZAdU-ImAzWpH-iGkWCUKgtA/edit?usp=sharing), [outside ccusd](about:blank)
