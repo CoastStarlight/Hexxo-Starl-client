@@ -1,0 +1,1 @@
+javascript:confirm("are you sure you want to do this?%22)%20&&%20eval(%22setInterval(b.explosion,%20%22%20+%20parseFloat(prompt(%22how%20many%20seconds%20inbetween%20explosions?%22))*1000%20+%20%22,%20simulation.mouseInGame,%20%22%20+%20parseInt(prompt(%22how%20big%20of%20an%20explosion?%22))%20+%20%22)%22)
