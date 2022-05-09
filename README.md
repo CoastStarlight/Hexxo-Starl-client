@@ -1,5 +1,5 @@
 # Hexxo-Starl Client
-***private*** n-gon hack client
+n-gon hack client
 ---
 
 # How to install
