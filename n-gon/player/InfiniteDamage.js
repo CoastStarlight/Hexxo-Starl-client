@@ -1,0 +1,1 @@
+javascript:tech.OccamDamage = Infinity
