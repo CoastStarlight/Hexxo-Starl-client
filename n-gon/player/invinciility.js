@@ -1,0 +1,1 @@
+javascript:if(confirm("enabling this will disable squirel cage rotor, u can get the benifits of that tech from speed hack, u good with that?%22))%20tech.squirrelFx%20=%20-4;%20console.log(%22bug%20fixin%20:)%22)
