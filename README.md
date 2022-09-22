@@ -1,5 +1,5 @@
 # Hexxo-Starl Client
-n-gon hack client
+[n-gon](https://github.com/landgreen/n-gon) hack client
 ---
 
 # How to install
@@ -8,7 +8,7 @@ n-gon hack client
 2. in a bookmark folder, right click and paste
 3. you can right click --> edit to change the name
 
-now if you go into n-gon, you can click on those bookmarks to activate the hacks!
+now if you go into [n-gon](https://landgreen.github.io/sidescroller/), you can click on those bookmarks to activate the hacks!
 
 ---
 # Guide
