@@ -1,1 +1,1 @@
-javascript:lore.unclockTesting()
+javascript:lore.unlockTesting()
